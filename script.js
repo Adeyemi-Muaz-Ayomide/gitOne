@@ -4,4 +4,4 @@ for (let i =0; i <= muaz.length; i++){
     console.log(muaz[i])
 };
 
-console.log('adeyemi')
+console.log('muaz');
